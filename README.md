@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Matvey
 #### I'm 23 years old,
-📚Studying to become DevOps engineer
+     📚Studying to become DevOps engineer
 
 ### 🛠 Skills
 LINUX  |  BASH  |  PYTHON  |  GIT
