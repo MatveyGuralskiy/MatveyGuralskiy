@@ -11,7 +11,7 @@ LINUX  |  BASH  |  PYTHON  |  GIT  | DJANGO  | FLASK
 
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MatveyGuralskiy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MatveyGuralskiy)](https://github.com/MatveyGuralskiy/github-readme-stats)
 
 ### ⚡Leet-Code Stats:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/MatveyGuralskiy)
