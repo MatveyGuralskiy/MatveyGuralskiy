@@ -1,18 +1,33 @@
-### Hi there 👋, my name is Matvey
-#### I'm 23 years old,
-  📚Studying to become DevOps engineer
+## Hi there 👋 
+### I'm Matvey, a 23-year-old aspiring DevOps engineer 
+### Currently, I'm focused on learning and honing my skills to become DevOps
+### My projects and repositories [Website](https://matveyguralskiy.github.io)
+## 🛠 Skills
+<strong> DevOps skills: </strong>
+<p>
+  <img src="https://img.shields.io/badge/AWS--coral" alt="AWS">&nbsp;
+  <img src="https://img.shields.io/badge/Ansible--white" alt="Ansible">&nbsp;
+  <img src="https://img.shields.io/badge/Jenkins--tomato" alt="Jenkins">&nbsp;
+  <img src="https://img.shields.io/badge/Docker--blue" alt="Docker">&nbsp; 
+  <img src="https://img.shields.io/badge/Git--darkred"  alt="Git">&nbsp;
+</p>
 
-### 🛠 Skills
-LINUX  |  BASH  |  PYTHON  |  GIT  | DJANGO  | FLASK | ANSIBLE | JENKINS | HTML | CSS
+<p>
+  <img src="https://img.shields.io/badge/Linux--orangered" alt="Linux">&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript--yellow" alt="JavaScript">&nbsp;  
+  <img src="https://img.shields.io/badge/Python--darkcyan" alt="Python">&nbsp;
+  <img src="https://img.shields.io/badge/Django--seagreen" alt="Django">&nbsp;
+  <img src="https://img.shields.io/badge/Flask--slategrey" alt="Flask">&nbsp;
 
-<p><a href="https://www.linux.org/" rel="noreferrer" target="_blank"><img alt="linux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="height:40px; width:40px" /> </a> <a href="https://www.gnu.org/software/bash/" rel="noreferrer" target="_blank"> <img alt="bash" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" style="height:40px; width:40px" /> </a> <a href="https://www.python.org" rel="noreferrer" target="_blank"> <img alt="python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="height:40px; width:40px" /> </a> <a href="https://git-scm.com/" rel="noreferrer" target="_blank"> <img alt="git" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="height:40px; width:40px" /> </a> <a href="https://www.djangoproject.com/" rel="noreferrer" target="_blank"> <img alt="django" src="https://cdn.worldvectorlogo.com/logos/django.svg" style="height:40px; width:40px" /> </a> <a href="https://flask.palletsprojects.com/" rel="noreferrer" target="_blank"> <img alt="flask" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" style="height:40px; width:40px" /> </a> <a href="https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html"> <img alt="ansible" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" style="height:40px; width:40px" /></a> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </p>
+  <img src="https://img.shields.io/badge/Html--orange" alt="Html">&nbsp;
+  <img src="https://img.shields.io/badge/CSS--aqua" alt="CSS">&nbsp; 
+  <img src="https://img.shields.io/badge/Bash--black" alt="Bash">&nbsp;
+</p>
 
-### 🔎 My Repositories/Projects
-- [LINK TO WEBPAGE](https://matveyguralskiy.github.io)
-
-### 📊 GitHub Stats:
+## 📊 GitHub Stats:
+### Total of Commits,Stars,Pull requests, Issues
 ![](https://github-readme-stats.vercel.app/api?username=MatveyGuralskiy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-### ⚡Leet-Code Stats:
-![Leetcode Stats](https://leetcard.jacoblin.cool/MatveyGuralskiy)
+## ⚡Leet-Code Stats:
+### All My code solutions from Leet-Code
+![](https://leetcard.jacoblin.cool/MatveyGuralskiy)
