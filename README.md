@@ -18,10 +18,12 @@
   <img src="https://img.shields.io/badge/Python--darkcyan" alt="Python">&nbsp;
   <img src="https://img.shields.io/badge/Django--seagreen" alt="Django">&nbsp;
   <img src="https://img.shields.io/badge/Flask--slategrey" alt="Flask">&nbsp;
-
-  <img src="https://img.shields.io/badge/Html--orange" alt="Html">&nbsp;
-  <img src="https://img.shields.io/badge/CSS--aqua" alt="CSS">&nbsp; 
-  <img src="https://img.shields.io/badge/Bash--black" alt="Bash">&nbsp;
+  
+  <img src="https://img.shields.io/badge/Bash--midnightblue" alt="Bash">&nbsp;
+  <img src="https://img.shields.io/badge/CSS--skyblue" alt="CSS">&nbsp; 
+  <img src="https://img.shields.io/badge/Html--hotpink" alt="Html">&nbsp;
+  
+  
 </p>
 
 ## 📊 GitHub Stats:
