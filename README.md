@@ -28,8 +28,4 @@
 
 ## 📊 GitHub Stats:
 ### Total of Commits,Stars,Pull requests, Issues
-![](https://github-readme-stats.vercel.app/api?username=MatveyGuralskiy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-## ⚡Leet-Code Stats:
-### All My code solutions from Leet-Code
-![](https://leetcard.jacoblin.cool/MatveyGuralskiy)
+![](https://github-readme-stats.vercel.app/api?username=MatveyGuralskiy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
