@@ -5,20 +5,24 @@
 ## 🛠 Skills
 <strong> DevOps skills: </strong>
 <p>
-  <img src="https://img.shields.io/badge/AWS--coral" alt="AWS">&nbsp;
+  <img src="https://img.shields.io/badge/AWS--coral" alt="AWS">&nbsp; 
+  <img src="https://img.shields.io/badge/Kubernetes--cornflowerblue" alt="Kubernetes">&nbsp; 
   <img src="https://img.shields.io/badge/Ansible--white" alt="Ansible">&nbsp;
   <img src="https://img.shields.io/badge/Jenkins--tomato" alt="Jenkins">&nbsp;
-  <img src="https://img.shields.io/badge/Docker--blue" alt="Docker">&nbsp; 
   <img src="https://img.shields.io/badge/Git--darkred"  alt="Git">&nbsp;
+   
+  
 </p>
 
 <p>
+  <img src="https://img.shields.io/badge/Docker--blue" alt="Docker">&nbsp;
   <img src="https://img.shields.io/badge/Linux--orangered" alt="Linux">&nbsp;
   <img src="https://img.shields.io/badge/JavaScript--yellow" alt="JavaScript">&nbsp;  
   <img src="https://img.shields.io/badge/Python--darkcyan" alt="Python">&nbsp;
-  <img src="https://img.shields.io/badge/Django--seagreen" alt="Django">&nbsp;
   <img src="https://img.shields.io/badge/Flask--slategrey" alt="Flask">&nbsp;
   
+  
+  <img src="https://img.shields.io/badge/Django--seagreen" alt="Django">&nbsp;
   <img src="https://img.shields.io/badge/Bash--midnightblue" alt="Bash">&nbsp;
   <img src="https://img.shields.io/badge/CSS--skyblue" alt="CSS">&nbsp; 
   <img src="https://img.shields.io/badge/Html--hotpink" alt="Html">&nbsp;
