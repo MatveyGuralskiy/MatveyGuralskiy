@@ -16,12 +16,13 @@
 
 <p>
   <img src="https://img.shields.io/badge/Docker--blue" alt="Docker">&nbsp;
+  <img src="https://img.shields.io/badge/Terraform--mediumpurple" alt="Terraform">&nbsp;
   <img src="https://img.shields.io/badge/Linux--orangered" alt="Linux">&nbsp;
   <img src="https://img.shields.io/badge/JavaScript--yellow" alt="JavaScript">&nbsp;  
   <img src="https://img.shields.io/badge/Python--darkcyan" alt="Python">&nbsp;
+
+  
   <img src="https://img.shields.io/badge/Flask--slategrey" alt="Flask">&nbsp;
-  
-  
   <img src="https://img.shields.io/badge/Django--seagreen" alt="Django">&nbsp;
   <img src="https://img.shields.io/badge/Bash--midnightblue" alt="Bash">&nbsp;
   <img src="https://img.shields.io/badge/CSS--skyblue" alt="CSS">&nbsp; 
