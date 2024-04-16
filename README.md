@@ -36,5 +36,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=MatveyGuralskiy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 ## ⚡Leet-Code Stats:
-### All My code solutions from Leet-Code
+### All My code-solutions from Leet-Code
 ![](https://leetcard.jacoblin.cool/MatveyGuralskiy)
