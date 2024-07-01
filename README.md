@@ -15,6 +15,16 @@
 </p>
 
 <p>
+  <img src="https://img.shields.io/badge/ArgoCD--crimson" alt="ArgoCD">&nbsp; 
+  <img src="https://img.shields.io/badge/GitHub Actions--darkslategray" alt="GitHub Actions">&nbsp; 
+  <img src="https://img.shields.io/badge/Grafana--indianred" alt="Grafana">&nbsp;
+  <img src="https://img.shields.io/badge/Prometheus--firebrick" alt="Prometheus">&nbsp;
+  <img src="https://img.shields.io/badge/SQL--indigo"  alt="SQL">&nbsp;
+   
+  
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/Docker--blue" alt="Docker">&nbsp;
   <img src="https://img.shields.io/badge/Terraform--mediumpurple" alt="Terraform">&nbsp;
   <img src="https://img.shields.io/badge/Linux--orangered" alt="Linux">&nbsp;
