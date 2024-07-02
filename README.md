@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/Django--seagreen" alt="Django">&nbsp;
   <img src="https://img.shields.io/badge/Bash--midnightblue" alt="Bash">&nbsp;
   <img src="https://img.shields.io/badge/CSS--skyblue" alt="CSS">&nbsp; 
-  <img src="https://img.shields.io/badge/Html--hotpink" alt="Html">&nbsp;
+  <img src="https://img.shields.io/badge/HTML--hotpink" alt="HTML">&nbsp;
   
   
 </p>
