@@ -5,7 +5,8 @@
 ## 🛠 Skills
 <strong> DevOps skills: </strong>
 <p>
-  <img src="https://img.shields.io/badge/AWS--coral" alt="AWS">&nbsp; 
+  <img src="https://img.shields.io/badge/AWS--coral" alt="AWS">&nbsp;
+  <img src="https://img.shields.io/badge/GCP--blue" alt="GCP">&nbsp;
   <img src="https://img.shields.io/badge/Kubernetes--cornflowerblue" alt="Kubernetes">&nbsp; 
   <img src="https://img.shields.io/badge/Ansible--white" alt="Ansible">&nbsp;
   <img src="https://img.shields.io/badge/Jenkins--tomato" alt="Jenkins">&nbsp;
