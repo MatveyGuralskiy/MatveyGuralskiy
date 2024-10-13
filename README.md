@@ -1,6 +1,5 @@
 ## Hi there 👋 
-### I'm Matvey, a 23-year-old aspiring DevOps engineer 
-### Currently, I'm focused on learning and honing my skills to become DevOps
+### I'm Matvey, a 23-year-old aspiring DevOps engineer in Ness Technology
 ### My projects and repositories [Website](https://matveyguralskiy.com)
 ## 🛠 Skills
 <strong> DevOps skills: </strong>
